@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+      "/home/srao/Documents/GitHub/PlotSat/plotsat/backend/venv/lib/python3.11/site-packages"
+  ]
+}
